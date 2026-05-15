@@ -19,12 +19,14 @@ Dataset Link: https://www.kaggle.com/datasets/obulisainaren/retinal-oct-c8
 The dataset contains OCT retinal images categorized into multiple disease classes.
 
 ### Disease Classes Include:
-- CNV (Choroidal Neovascularization)
-- DME (Diabetic Macular Edema)
-- DRUSEN
-- NORMAL
-- Additional retinal disease categories
-
+AMD — Age-related Macular Degeneration
+CNV — Choroidal Neovascularization
+CSR — Central Serous Retinopathy
+DME — Diabetic Macular Edema
+DR — Diabetic Retinopathy
+DRUSEN — Yellow deposits under the retina
+MH — Macular Hole
+NORMAL — Healthy eyes with no abnormalities
 ## 🛠️ Tools & Libraries
 
 - Python
